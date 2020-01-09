@@ -1,0 +1,10 @@
+/dubbo-bom/target/
+/dubbo-demo/target/
+/dubbo-demo/dubbo-demo-api/target/
+/dubbo-demo/dubbo-demo-consumer/.idea/
+/dubbo-demo/dubbo-demo-consumer/target/
+/dubbo-demo/dubbo-demo-provider/.idea/
+/dubbo-demo/dubbo-demo-provider/target/
+/target/
+/.idea/
+/dubbo-dependencies-bom/target/
